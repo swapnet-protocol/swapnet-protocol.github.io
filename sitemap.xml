@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swapnet.exchange/about/</loc>
+    <loc>https://swapnet.finance/about/</loc>
     <lastmod>2018-09-16T08:53:47-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swapnet.exchange/whitepaper/</loc>
+    <loc>https://swapnet.finance/whitepaper/</loc>
     <lastmod>2018-09-16T08:53:47-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swapnet.exchange/categories/</loc>
+    <loc>https://swapnet.finance/categories/</loc>
   </url>
   
   <url>
-    <loc>https://swapnet.exchange/</loc>
+    <loc>https://swapnet.finance/</loc>
   </url>
   
   <url>
-    <loc>https://swapnet.exchange/tags/</loc>
+    <loc>https://swapnet.finance/tags/</loc>
   </url>
   
 </urlset>
